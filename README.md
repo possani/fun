@@ -1,2 +1,2 @@
 # fun
-Ropository used to play with git
+Repository used to play with git
